@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.svg" width="640" alt="who-lee — discover who lee">
+  <img src="hero-v2.svg" width="640" alt="who-lee — discover who lee">
 </div>
 
 **who lee is Lee.** A builder in Glasgow who writes operating systems in C and ships tools that do exactly what they claim.
