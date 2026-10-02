@@ -32,8 +32,7 @@ I research atoms and computers. I build kernels, local-first tools and AI plumbi
 ## Numbers
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=who-lee&show_icons=true&hide_border=true&bg_color=F6EEDD&title_color=E4572E&text_color=17181B&icon_color=2743F0&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=who-lee&layout=compact&hide_border=true&bg_color=F6EEDD&title_color=E4572E&text_color=17181B&langs_count=8" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/who-lee/who-lee/output/stats.svg" width="880" alt="contribution stats" />
 </div>
 
 <div align="center">
