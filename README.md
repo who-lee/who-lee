@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero-v6.svg" width="800" alt="who-lee. i am lee! Now something interesting is atoms and computers, i research both">
+  <img src="hero-v7.svg" width="880" alt="who-lee. i am lee! Now something interesting is atoms and computers, i research both">
 </div>
 
 <br/>
